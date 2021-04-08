@@ -30,7 +30,7 @@ Blog post: https://link.tecknologg.website/yyaya
 
 
 # Documentation
-You can get the official documentation for stormduino here: https://github.com/Chromico/stormduino-4-layer/blob/main/documentation/Stormduino%204%20layer%20edition%20documentation.pdf
+You can get the official documentation here: https://github.com/Chromico/stormduino-4-layer/blob/main/documentation/Stormduino%204%20layer%20edition%20documentation.pdf
 
 # Certification
 PENDING
