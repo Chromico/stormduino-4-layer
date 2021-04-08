@@ -3,7 +3,7 @@ An open source 4 layer arduino uno clone designed in KiCad in collaboration with
 
 My website: https://tecknologg.website
 
-Blog post: https://tecknologg.website/2020/02/02/stormduino-the-arduino-compatible-board-made-in-kicad/
+Blog post: https://link.tecknologg.website/yyaya
 
 # Banner
 
