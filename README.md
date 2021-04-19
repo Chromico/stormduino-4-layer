@@ -36,8 +36,6 @@ You can get the official documentation here: https://github.com/Chromico/stormdu
 ![picture](https://github.com/Chromico/stormduino-4-layer/blob/main/photos/MU000006.png)
 
 
-![picture]()
-
 
 # Contact
 
