@@ -18,7 +18,7 @@ Blog post: https://link.tecknologg.website/yyaya
 # Back
 
 
-![picture](https://github.com/Chromico/stormduino-4-layer/blob/main/photos/stormduino%20Rev2%20-%204%20layer%20front.png)
+![picture](https://github.com/Chromico/stormduino-4-layer/blob/main/photos/stormduino%20Rev2%20-%204%20layer%20back.png)
 
 
 # Assembled board
